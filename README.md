@@ -36,10 +36,19 @@ Este es un programa que permite a los usuarios registrados descargar videos de Y
 
 - **Versión 2:** Agregada la funcionalidad de descarga de videos y música de YouTube, manteniendo las funciones de la versión 1. Ahora los usuarios pueden descargar tanto videos como música desde YouTube.
 
+![Descargador de YouTube - Versión 2](https://github.com/DannyCrisostomo/Descargador-de-YouTube/blob/f157fce43d10059a23c5339ce82b482386c56c2b/Version%202/Imagen/DownloaderYT.2.0.png)
+
 - **Versión 3:** Se añadió un botón para seleccionar la carpeta de descarga y un campo de entrada para mostrar la ubicación de la carpeta seleccionada. Además, se mejoró la seguridad y se optimizó el rendimiento de la aplicación.
+
+![Descargador de YouTube - Versión 3](https://github.com/DannyCrisostomo/Descargador-de-YouTube/blob/f157fce43d10059a23c5339ce82b482386c56c2b/Version%203/Imagen/DownloaderYT.3.0.png)
 
 - **Versión 4:** Implementación de inicio de sesión y registro de usuarios, lo que permite a los usuarios guardar sus preferencias y acceder a la aplicación de manera personalizada. También se mantienen las mejoras de la versión 3 en seguridad y rendimiento.
 
+![Descargador de YouTube - Versión 4](https://github.com/DannyCrisostomo/Descargador-de-YouTube/blob/f157fce43d10059a23c5339ce82b482386c56c2b/Version%204/Imagen/DownloaderYT.4.0.png)
+
+![Descargador de YouTube - Versión 4](https://github.com/DannyCrisostomo/Descargador-de-YouTube/blob/f157fce43d10059a23c5339ce82b482386c56c2b/Version%204/Imagen/DownloaderYT.4.1.png)
+
+![Descargador de YouTube - Versión 4](https://github.com/DannyCrisostomo/Descargador-de-YouTube/blob/f157fce43d10059a23c5339ce82b482386c56c2b/Version%204/Imagen/DownloaderYT.4.2.png)
 
 ## Autor 👨‍💻
 
