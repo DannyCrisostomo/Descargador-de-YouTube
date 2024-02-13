@@ -30,10 +30,14 @@ Este es un programa que permite a los usuarios registrados descargar videos de Y
 
 ## Versiones 🔄
 
-- **Versión 1:** Implementación básica de inicio de sesión y registro de usuarios.
-- **Versión 2:** Agregada la funcionalidad de descarga de videos de YouTube.
-- **Versión 3:** Corrección de errores y mejoras en la interfaz de usuario.
-- **Versión 4:** Mejora de la seguridad y optimización del rendimiento.
+- **Versión 1:** Implementación inicial con funciones básicas, incluyendo un botón para descargar, un botón para limpiar la entrada, un botón para cancelar la descarga y un campo para la entrada de la URL.
+  ![php](https://github.com/DannyCrisostomo/Portada/blob/main/portada.jpg)
+- **Versión 2:** Agregada la funcionalidad de descarga de videos y música de YouTube, manteniendo las funciones de la versión 1. Ahora los usuarios pueden descargar tanto videos como música desde YouTube.
+
+- **Versión 3:** Se añadió un botón para seleccionar la carpeta de descarga y un campo de entrada para mostrar la ubicación de la carpeta seleccionada. Además, se mejoró la seguridad y se optimizó el rendimiento de la aplicación.
+
+- **Versión 4:** Implementación de inicio de sesión y registro de usuarios, lo que permite a los usuarios guardar sus preferencias y acceder a la aplicación de manera personalizada. También se mantienen las mejoras de la versión 3 en seguridad y rendimiento.
+
 
 ## Autor 👨‍💻
 
