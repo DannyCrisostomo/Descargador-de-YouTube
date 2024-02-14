@@ -8,8 +8,12 @@ Este es un programa que permite a los usuarios registrados descargar videos de Y
 - **Registro de usuario:** Los nuevos usuarios pueden registrarse proporcionando un correo electrónico y una contraseña.
 - **Descarga de videos de YouTube:** Una vez que los usuarios han iniciado sesión, pueden descargar videos de YouTube.
 
-#Convertir un programa Python con Tkinter a un ejecutable (.exe) 🚀
+¡Claro! Aquí tienes el README utilizando emojis:
+
 ---
+
+# Convertir un programa Python con Tkinter a un ejecutable (.exe) 🚀
+
 ## Requisitos
 
 - Tener Python instalado en tu sistema.
@@ -38,6 +42,8 @@ pip install auto-py-to-exe
 - Es recomendable probar el archivo .exe en otro sistema para verificar su funcionamiento antes de distribuirlo.
 
 ---
+
+Este README proporciona una guía básica para convertir un programa Python con Tkinter a un ejecutable (.exe) utilizando `auto-py-to-exe`. Puedes personalizarlo según tus necesidades específicas.
 
 ## Requisitos 📋
 
