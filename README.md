@@ -9,39 +9,6 @@ Este es un programa que permite a los usuarios registrados descargar videos de Y
 - **Descarga de videos de YouTube:** Una vez que los usuarios han iniciado sesión, pueden descargar videos de YouTube.
 
 ---
-
-# Convertir un programa Python con Tkinter a un ejecutable (.exe) 🚀
-
-## Requisitos
-
-- Tener Python instalado en tu sistema.
-- Instalar la herramienta `auto-py-to-exe` utilizando pip:
-
-```bash
-pip install auto-py-to-exe
-```
-
-## Pasos para convertir a .exe
-
-1. Ejecutar `auto-py-to-exe` desde la línea de comandos.
-
-2. Se abrirá una interfaz gráfica. En la pestaña "Script", selecciona el archivo Python que contiene tu programa con Tkinter.
-
-3. Configura las opciones de conversión según tus necesidades. Puedes especificar el nombre del archivo de salida, el icono, las bibliotecas adicionales, etc.
-
-4. Haz clic en "Convertir .py a .exe". El proceso de conversión comenzará y podrás ver el progreso en la consola.
-
-5. Una vez completada la conversión, encontrarás el archivo ejecutable en la carpeta de salida especificada.
-
-## Notas adicionales ℹ️
-
-- Asegúrate de incluir todos los recursos necesarios (imágenes, archivos de sonido, etc.) en la misma carpeta que el archivo ejecutable para que el programa funcione correctamente.
-
-- Es recomendable probar el archivo .exe en otro sistema para verificar su funcionamiento antes de distribuirlo.
-
----
-
-
 ## Requisitos 📋
 
 - Python 3.x
