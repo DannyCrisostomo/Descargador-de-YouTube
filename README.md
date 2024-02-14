@@ -9,7 +9,7 @@ Este es un programa que permite a los usuarios registrados descargar videos de Y
 - **Descarga de videos de YouTube:** Una vez que los usuarios han iniciado sesión, pueden descargar videos de YouTube.
 
 ##Convertir un programa Python con Tkinter a un ejecutable (.exe) 🚀
-
+---
 ## Requisitos
 
 - Tener Python instalado en tu sistema.
