@@ -62,8 +62,12 @@ Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna s
 
 Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT).
 
+----
+
 # Convertir un programa Python con Tkinter a un ejecutable (.exe) 🚀
 
+![Convertir a exe](https://github.com/DannyCrisostomo/Descargador_de_video-audio_YouTube/blob/0eb3c94de8e9346ee5ee867a4a52de0d3105895c/convertir%20a%20exe/convertir%20a%20exe.png)
+ 
 ## Requisitos
 
 - Tener Python instalado en tu sistema.
